@@ -1,3 +1,5 @@
+// The service interface which contains all the services the project offers. its implementation should ideally contain the business logic.
+
 package com.swe645.assignment3.service;
 
 import java.util.List;

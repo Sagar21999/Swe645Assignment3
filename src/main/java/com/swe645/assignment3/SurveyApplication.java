@@ -1,3 +1,5 @@
+// it is the main class of the project which will cause the project to execute.
+
 package com.swe645.assignment3;
 
 import org.springframework.boot.SpringApplication;

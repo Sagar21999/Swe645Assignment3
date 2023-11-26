@@ -1,3 +1,5 @@
+// This is the Jenkins file of the project which will be used to build the CI/CD pipeline.
+
 pipeline {
     
     environment {

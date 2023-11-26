@@ -1,3 +1,4 @@
+// The rest controller for the project. It will handle incoming requests from browser/postman and will re route to the appropriate service.
 package com.swe645.assignment3.controller;
 
 import java.util.List;

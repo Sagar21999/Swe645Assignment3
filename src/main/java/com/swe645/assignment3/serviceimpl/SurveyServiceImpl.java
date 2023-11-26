@@ -1,3 +1,7 @@
+// It is the implementation of the service classs.
+// summoned by the repository class for the respictive calls.
+// It calls or invokes the appropriate repository method to fetch data from the database.
+
 package com.swe645.assignment3.serviceimpl;
 
 import java.util.List;

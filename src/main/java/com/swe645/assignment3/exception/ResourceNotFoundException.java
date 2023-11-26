@@ -1,3 +1,5 @@
+// Exception class. It is the exception which will be thrown whenever we cant find any resource for the result of the api call.
+
 package com.swe645.assignment3.exception;
 
 import org.springframework.http.HttpStatus;

@@ -1,3 +1,6 @@
+// It is the entity or data object. All data objects are of this type. 
+//Also we give annotations in order for the spring boot to automatically create the tables in the database.
+
 package com.swe645.assignment3.entity;
 
 import java.util.Date;
